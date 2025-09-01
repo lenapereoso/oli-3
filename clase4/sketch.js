@@ -1,6 +1,6 @@
 const trabajitos = [
     {
-        photo: "https://picsum.photos/id/237/400/300",
+        photo: "lenapereoso.github.io/oli-3/imagen1",
         title: "Poster",
         description: "Trabajo proyecto III, con Prof. Pamela Petruska."
     },
