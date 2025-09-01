@@ -1,23 +1,23 @@
 const trabajitos = [
     {
         photo: "https://picsum.photos/id/237/400/300",
-        title: "Súper dibujo",
-        description: "Trabajo de Configuración Visual I, con Prof. Ampuero."
+        title: "Poster",
+        description: "Trabajo proyecto III, con Prof. Pamela Petruska."
     },
     {
         photo: "https://picsum.photos/id/84/400/300",
-        title: "Mejor dibujo",
-        description: "Trabajo de Configuración Visual I, con Prof. Perea."
+        title: "Fanzine",
+        description: "Trabajo proyecto III, con Prof. Pamela Petruska."
     },
     {
         photo: "https://picsum.photos/id/96/400/300",
-        title: "Otro dibujo",
-        description: "Trabajo de Configuración Visual I, con Prof. Pradenas."
+        title: "Fuerza florecida",
+        description: "Trabajo proyecto III, con Prof. Pamela Petruska."
     },
     {
         photo: "https://picsum.photos/id/104/400/300",
-        title: "Paremos de hacer dibujos",
-        description: "Trabajo de Configuración Visual I, con Prof. Otro."
+        title: "Narrativa visual",
+        description: "Trabajo proyecto II, con Prof. Rene Perea."
     }            
 ]
 
@@ -236,7 +236,7 @@ var otrxs = [];
 
 
 datos.forEach((x) => {
-    if (x.nombre == "Martina Urzúa") {
+    if (x.nombre == "Renata Pereira") {
         yo = x;
     } else {
         otrxs.push(x);
