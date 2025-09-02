@@ -1,21 +1,21 @@
 const trabajitos = [
     {
-        photo: "https://github.com/lenapereoso/oli-3/blob/main/clase4/img/imagen1.webp?raw=true",
+        photo: "https://github.com/lenapereoso/oli-3/blob/main/img/imagen1.webp?raw=true",
         title: "Poster",
         description: "Trabajo de Proyecto III, con Prof. Pamela Petruska."
     },
     {
-        photo: "https://github.com/lenapereoso/oli-3/blob/main/clase4/img/imagen2.webp?raw=true",
+        photo: "https://github.com/lenapereoso/oli-3/blob/main/img/imagen2.webp?raw=true",
         title: "Fanzine",
         description: "Trabajo de Proyecto III, con Prof. Pamela Petruska."
     },
     {
-        photo: "https://github.com/lenapereoso/oli-3/blob/main/clase4/img/imagen3.webp?raw=true",
+        photo: "https://github.com/lenapereoso/oli-3/blob/main/img/imagen3.webp?raw=true",
         title: "Narrativa visual fotografica",
         description: "Trabajo de Proyecto II, con Prof. Rene Perea."
     },
     {
-        photo: "https://github.com/lenapereoso/oli-3/blob/main/clase4/img/imagen4.webp?raw=true",
+        photo: "https://github.com/lenapereoso/oli-3/blob/main/img/imagen4.webp?raw=true",
         title: "Fuerza Florecida",
         description: "Trabajo de Proyecto III, con Prof. Pamela Petruska."
     }            
